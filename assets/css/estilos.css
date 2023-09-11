@@ -37,3 +37,7 @@ body {
   }
 
 }
+
+.card{
+  border-radius: 1.25rem !important;
+}
